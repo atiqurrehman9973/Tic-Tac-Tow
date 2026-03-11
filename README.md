@@ -24,18 +24,6 @@ This project demonstrates DOM manipulation, game logic, and responsive UI design
 
 
 
-## ▶️ How to Run the Project
-
-1. Clone the repository
-
-```
-
-```
-
-2. Open the project folder
-
-3. Open **index.html** in your browser
-
 ## 📌 Future Improvements
 
 * Add AI opponent (Play vs Computer)
